@@ -1,0 +1,10 @@
+#open new account
+#deposit amount 
+#withdraw money 
+#balance enquiry 
+#show custimers details 
+#close of account 
+ # Database 
+
+  #will create a databse by name Bank_Management
+
